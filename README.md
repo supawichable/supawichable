@@ -7,7 +7,7 @@
 
 - How to reach me **s.jiarakul@gmail.com**
 
-- Know about my experiences [My CV](https://drive.google.com/file/d/1WUS7gIwHfNq03M0GCId_MnF7RGSi1oxN/view?usp=sharing)
+- Know about my experiences [My CV](https://drive.google.com/file/d/1Fr2QAlGTCTEM3gYICYs4a42KCesuPsiG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
