@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Supawich Jiarakul</h1>
-<h3 align="center">A computer science student at Tokyo Institute of Technology, from Thailand.</h3>
+<h3 align="center">A graduate computer science student at Tokyo Institute of Technology, from Thailand.</h3>
 
 - I’m currently working on [Network Project](https://github.com/supawichable/Web_Programming_Projects/tree/master/Project4_network)
 
-- I’m currently learning **Web Development with Harvard University's CS50 Course**
+- I’m currently a **Siri Development Intern at Apple**
 
 - How to reach me **s.jiarakul@gmail.com**
 
