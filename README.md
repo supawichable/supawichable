@@ -5,11 +5,10 @@
 
 - How to reach me **s.jiarakul@gmail.com**
 
-- Know about my experiences [My CV](https://drive.google.com/file/d/1Fr2QAlGTCTEM3gYICYs4a42KCesuPsiG/view?usp=sharing)
+- Know about my experiences [My CV](https://drive.google.com/file/d/14zzjtL6xJ396t0VUxeVDqACgtkf0su2L/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/supawichable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supawichable" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
 
