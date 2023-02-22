@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Supawich Jiarakul</h1>
 <h3 align="center">A graduate computer science student at Tokyo Institute of Technology, from Thailand.</h3>
 
-- I’m currently a **Siri Development Intern at Apple**
 
 - How to reach me **s.jiarakul@gmail.com**
 
-- Know about my experiences [My CV](https://drive.google.com/file/d/14zzjtL6xJ396t0VUxeVDqACgtkf0su2L/view?usp=sharing)
+- Know about my experiences [My CV](https://drive.google.com/file/d/1pDE427UTxhyk8kROR5VprVd2EqtcCytW/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
